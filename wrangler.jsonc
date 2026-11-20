@@ -16,7 +16,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "personal-oura-mcp",
+	"name": "oura-for-maya",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-10-01",
 	"compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
